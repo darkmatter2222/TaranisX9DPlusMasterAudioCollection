@@ -1,0 +1,33 @@
+location;file;text
+TELEMETRY/iNav/en;acromd.wav;acro mode
+TELEMETRY/iNav/en;active.wav;active
+TELEMETRY/iNav/en;althld.wav;altitude hold
+TELEMETRY/iNav/en;anglmd.wav;angle mode
+TELEMETRY/iNav/en;batcrt.wav;battery critical
+TELEMETRY/iNav/en;batlow.wav;low battery
+TELEMETRY/iNav/en;battry.wav;battery
+TELEMETRY/iNav/en;cruzmd.wav;cruze mode
+TELEMETRY/iNav/en;danger.wav;cruze danger
+TELEMETRY/iNav/en;engarm.wav;engines armed
+TELEMETRY/iNav/en;engdrm.wav;engines disarmed
+TELEMETRY/iNav/en;fsoff.wav;failsafe off
+TELEMETRY/iNav/en;fson.wav;failsafe on
+TELEMETRY/iNav/en;good.wav;good
+TELEMETRY/iNav/en;gps.wav;GPS
+TELEMETRY/iNav/en;hedhld.wav;heading hold
+TELEMETRY/iNav/en;hedhlda.wav;heading hold active
+TELEMETRY/iNav/en;hfact.wav;headfree active
+TELEMETRY/iNav/en;hfoff.wav;headfree off
+TELEMETRY/iNav/en;homrst.wav;home reset
+TELEMETRY/iNav/en;hrznmd.wav;horizon mode
+TELEMETRY/iNav/en;lost.wav;lost
+TELEMETRY/iNav/en;manmd.wav;manual mode
+TELEMETRY/iNav/en;normal.wav;normal
+TELEMETRY/iNav/en;off.wav;off
+TELEMETRY/iNav/en;on.wav;on
+TELEMETRY/iNav/en;poshld.wav;position hold
+TELEMETRY/iNav/en;ready.wav;ready to fly
+TELEMETRY/iNav/en;rtl.wav;return to launch
+TELEMETRY/iNav/en;toohgh.wav;too high
+TELEMETRY/iNav/en;warning.wav;warning
+TELEMETRY/iNav/en;waypt.wav;waypoint
